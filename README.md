@@ -1,6 +1,6 @@
 ## Hey there,
 
-For the recent 6 years, I have been developing and using Python, started from scratch, autodidact.
+For the recent 8 years, I have been developing and using Python, started from scratch, autodidact.
 
 Now I am a Python team leader and Python tech lead.
 
